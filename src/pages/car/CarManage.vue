@@ -147,7 +147,6 @@ h3{
     border : solid 10px transparent;/*#1fd3d37a ;*/
     cursor : pointer;
     border-radius : 50%;
-    /* background-image: linear-gradient(#fff, #fff), linear-gradient(90deg, rgba(56,209,209,1) 0%, rgba(205,252,252,1) 35%, rgba(153,223,237,1) 100%); */
     background-image : linear-gradient(#fff, #fff), linear-gradient(90deg, rgba(87,162,249,1) 0%, rgba(221,242,255,1) 35%, rgba(153,217,237,1) 100%);
     background-origin: border-box;
     background-clip: content-box, border-box;
