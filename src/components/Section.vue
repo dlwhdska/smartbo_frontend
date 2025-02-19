@@ -3,9 +3,6 @@
     <!-- SECTION START -->
     <router-view></router-view>
     <!-- SECTION END -->
-    <div class="gg">
-      알림 Section
-    </div>
   </section>
 </template>
 <script>

@@ -43,12 +43,11 @@ import CarManageList from '@/pages/car/CarManageList.vue'
 import CarWaitingList from '@/pages/car/CarWaitingList.vue'
 import CarRentList from '@/pages/car/CarRentList.vue'
 import CarNoReturnList from '@/pages/car/CarNoReturnList.vue'
-import CarsMap from '@/pages/car/CarsMap.vue'
 import PageGroup from '@/components/PageGroup.vue'
 import axios from 'axios'
 export default {
     name: 'CarManage',
-    components: { CarManageList, CarWaitingList, CarRentList, CarNoReturnList, PageGroup, CarsMap },
+    components: { CarManageList, CarWaitingList, CarRentList, CarNoReturnList, PageGroup},
     data() {
         return {
             carlist: null,

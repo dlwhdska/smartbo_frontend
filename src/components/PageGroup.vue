@@ -1,5 +1,4 @@
 <template lang="">
-    <!-- <h1>{{startPage}}, {{endPage}}</h1> -->
     <div class="pagegroup">
         <ul class="pagination mx-auto">
             <li class="page-item">

@@ -1,8 +1,4 @@
 <template lang="">
-  <!-- <Header />
-  <Section />
-  <Footer />
-  <router-view /> -->
 </template>
 <script>
 import Header from "./Header.vue";
