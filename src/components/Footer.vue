@@ -1,9 +1,5 @@
 <template lang="">
     <div class='footer'>
-        <!--회사정보-->
-    </div>
-    <div class="gg">
-        알림공간
     </div>
 </template>
 <script>
