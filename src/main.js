@@ -18,8 +18,6 @@ app.use(router);
 app.component("VueDatePicker", VueDatePicker);
 
 //전역변수 선언
-// app.config.globalProperties.backURL = "http://192.168.3.79:8880";
 app.config.globalProperties.backURL = "http://localhost:8880";
 app.config.globalProperties.memberId = localStorage.getItem("memberId");
-// app.config.globalProperties.backURL='http://192.168.1.105:8880'
 app.mount("#app");
