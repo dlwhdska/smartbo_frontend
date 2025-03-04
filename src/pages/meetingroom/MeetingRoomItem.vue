@@ -238,10 +238,8 @@ td {
 .timebar {
   display: flex;
   flex-wrap: wrap;
-  /* padding: 8px; */
   width: auto;
   height: auto;
-  /* text-align: left; */
   text-align: center;
 }
 
